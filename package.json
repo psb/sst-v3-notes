@@ -10,6 +10,9 @@
     "typescript": "5.3.3"
   },
   "dependencies": {
+    "@stripe/react-stripe-js": "^2.8.0",
+    "@stripe/stripe-js": "^4.4.0",
+    "amazon-cognito-identity-js": "^6.3.13",
     "sst": "^3",
     "stripe": "^16.9.0"
   }
